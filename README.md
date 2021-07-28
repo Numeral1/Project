@@ -1,2 +1,2 @@
 # Project
-com.exmple - simple Twitter clone
+com.exаmple - simple Twitter clone
